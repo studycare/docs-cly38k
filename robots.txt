@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-png8dr.kujang138.shop/sitemap.xml
